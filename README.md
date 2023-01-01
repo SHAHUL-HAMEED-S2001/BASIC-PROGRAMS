@@ -11,4 +11,7 @@
 9. Sum of Digit of a Number using Recursion
 10. Count the number of digits in a number
 11. Generate all the divisors of a given number
-12. Prints the smallest divisor of the integer
+12. Prints the smallest divisor of a given number
+13. Binary equivalent of a given number
+14. Print the table of a given number
+15. 
