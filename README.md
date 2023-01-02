@@ -17,3 +17,6 @@
 15. Program to take the marks of 5 subjects and display the grade
 16. The program takes in a date and checks if it a valid date
 17. 
+18. 
+19. 
+20. 
