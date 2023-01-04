@@ -1,5 +1,4 @@
-# Print all integers that aren't divisible by either 2 or 3 within a given rangewithin a given range
-
+# Print all integers that aren't divisible by either 2 or 3 within a given range
 print("All integers that aren't divisible by either 2 or 3 within a given range")
 
 lowerLimit = int(input("Enter lower limit: "))

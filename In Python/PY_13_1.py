@@ -1,5 +1,4 @@
 # Binary equivalent of a given number
-
 print("Binary Equivalent of a given number")
 
 num = int(input("Enter a number: "))

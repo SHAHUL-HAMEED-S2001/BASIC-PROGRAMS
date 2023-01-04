@@ -1,4 +1,4 @@
-# The program takes in a date and checks if it a valid date and prints the incremented date if it is
+# The program takes in a date and checks if it a valid date and prints the incremented date if it is valid
 
 date=input("Enter the date: ")
 dd,mm,yy=date.split('/')

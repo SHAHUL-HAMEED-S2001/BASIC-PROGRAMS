@@ -1,6 +1,5 @@
-# The program takes the upper and lower limit and prints all odd numbers within a given range
-
-print("The program takes the upper and lower limit and prints all odd numbers within a given range")
+# Prints all odd numbers within a given range
+print("Prints all odd numbers within a given range")
 
 lowerLimit = int(input("Enter lower limit: "))
 upperLimit = int(input("Enter upper limit: "))

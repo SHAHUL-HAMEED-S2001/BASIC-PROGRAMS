@@ -1,4 +1,5 @@
 # Binary equivalent of a given number using Recursion
+print("Binary Equivalent of a given number")
 
 Binary=[]
 

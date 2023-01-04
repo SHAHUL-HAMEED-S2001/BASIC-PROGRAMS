@@ -3,7 +3,7 @@
 1. Print Hello, World!
 2. Determine whether a given number is even or odd recursively
 3. Check whether a number is positive or negative
-4. The program takes the upper and lower limit and prints all odd numbers within a given range
+4. Prints all odd numbers within a given range
 5. Check whether a given number is a palindrome
 6. Reverse a given number
 7. Print all integers that aren’t divisible by either 2 or 3 and lies within a given range
@@ -15,8 +15,8 @@
 13. Binary equivalent of a given number
 14. Print the table of a given number
 15. Program to take the marks of 5 subjects and display the grade
-16. The program takes in a date and checks if it a valid date
-17. 
-18. 
-19. 
-20. 
+16. The program takes in a date and checks if it a valid date and prints the incremented date if it is valid
+17. Check whether a given year is a leap year or not
+18. Convert centimeters into feet and inches
+19. Read a number n and compute n+nn+nnn
+20. Print all integers that are divisible by 7 and Multiple of 5 and lies within a given range

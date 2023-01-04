@@ -1,5 +1,4 @@
 # Print the table of a given number
-
 print("Print the table of a given number")
 
 num = int(input("Enter a number: "))
